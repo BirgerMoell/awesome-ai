@@ -1,4 +1,4 @@
-# awesome-ai
+# Awesome-ai
 
 ## NLP
 ## awesome-nlp
