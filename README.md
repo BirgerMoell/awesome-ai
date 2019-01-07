@@ -11,6 +11,8 @@ https://github.com/hades217/awesome-ai
 https://github.com/keon/awesome-nlp
 ## NLP overview
 https://nlpoverview.com/
+## Elmo implementation
+https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md
 
 ## General awesome list
 ## Awesome
