@@ -1,8 +1,10 @@
-# Awesome-ai
+# Awesome-awesome-ai
 
 # General
 ## Awesome artificial intelligence
 https://github.com/owainlewis/awesome-artificial-intelligence
+## Awesome AI
+https://github.com/hades217/awesome-ai
 
 ## NLP
 ## awesome-nlp
